@@ -1,0 +1,13 @@
+ 
+
+
+as a user I can :  
+- register /authenticate ,
+ -add / update / delete private post , 
+-comment a pupblic or private post / delete private comments
+-like / dislike public / private comments
+
+as an admin I can :
+-dis-authenticate user
+-delete user account
+
